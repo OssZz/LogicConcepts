@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01", "01", "{F6542708-3F56-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsNomberOddOrNot", "IsNomberOddOrNot\IsNomberOddOrNot.csproj", "{DA4E009E-2E22-4C13-8734-3D3B4648BD76}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02", "02", "{93F9B61B-3366-4F41-9136-BA279C8DB99B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{D0980BDE-A62D-4A13-958D-80864D80D919}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,11 +21,16 @@ Global
 		{DA4E009E-2E22-4C13-8734-3D3B4648BD76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA4E009E-2E22-4C13-8734-3D3B4648BD76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA4E009E-2E22-4C13-8734-3D3B4648BD76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0980BDE-A62D-4A13-958D-80864D80D919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0980BDE-A62D-4A13-958D-80864D80D919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0980BDE-A62D-4A13-958D-80864D80D919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0980BDE-A62D-4A13-958D-80864D80D919}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{DA4E009E-2E22-4C13-8734-3D3B4648BD76} = {F6542708-3F56-4525-A750-0F12C88579C6}
+		{D0980BDE-A62D-4A13-958D-80864D80D919} = {93F9B61B-3366-4F41-9136-BA279C8DB99B}
 	EndGlobalSection
 EndGlobal
